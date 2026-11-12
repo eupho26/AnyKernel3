@@ -1,7 +1,7 @@
 ===================================
 Linux Version    : v4.19.325-cip136
 Author           : Katou Megumi
-KernelSU Version : v3.3.0 - 32628
+KernelSU Version : v3.3.1
 ===================================
 - Compile with AOSP Clang 23.0.1
 - Build with Thin LTO
